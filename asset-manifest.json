@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/comeupkings-react/static/css/main.305a325f.chunk.css",
-    "main.js": "/comeupkings-react/static/js/main.07662d10.chunk.js",
-    "main.js.map": "/comeupkings-react/static/js/main.07662d10.chunk.js.map",
+    "main.css": "/comeupkings-react/static/css/main.75709e72.chunk.css",
+    "main.js": "/comeupkings-react/static/js/main.225e249b.chunk.js",
+    "main.js.map": "/comeupkings-react/static/js/main.225e249b.chunk.js.map",
     "runtime-main.js": "/comeupkings-react/static/js/runtime-main.9e4da009.js",
     "runtime-main.js.map": "/comeupkings-react/static/js/runtime-main.9e4da009.js.map",
     "static/js/2.6c6f109f.chunk.js": "/comeupkings-react/static/js/2.6c6f109f.chunk.js",
@@ -10,14 +10,16 @@
     "static/js/3.a366688d.chunk.js": "/comeupkings-react/static/js/3.a366688d.chunk.js",
     "static/js/3.a366688d.chunk.js.map": "/comeupkings-react/static/js/3.a366688d.chunk.js.map",
     "index.html": "/comeupkings-react/index.html",
-    "static/css/main.305a325f.chunk.css.map": "/comeupkings-react/static/css/main.305a325f.chunk.css.map",
+    "static/css/main.75709e72.chunk.css.map": "/comeupkings-react/static/css/main.75709e72.chunk.css.map",
     "static/js/2.6c6f109f.chunk.js.LICENSE.txt": "/comeupkings-react/static/js/2.6c6f109f.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/comeupkings-react/static/media/logo.6ce24c58.svg"
+    "static/media/happy.41b17b60.png": "/comeupkings-react/static/media/happy.41b17b60.png",
+    "static/media/logo2.1cfa0275.png": "/comeupkings-react/static/media/logo2.1cfa0275.png",
+    "static/media/sad.2ff188fb.png": "/comeupkings-react/static/media/sad.2ff188fb.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9e4da009.js",
     "static/js/2.6c6f109f.chunk.js",
-    "static/css/main.305a325f.chunk.css",
-    "static/js/main.07662d10.chunk.js"
+    "static/css/main.75709e72.chunk.css",
+    "static/js/main.225e249b.chunk.js"
   ]
 }
