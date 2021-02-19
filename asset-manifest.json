@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/comeupkings-react/static/css/main.2f4035ac.chunk.css",
+    "main.css": "/comeupkings-react/static/css/main.9a4ca85a.chunk.css",
     "main.js": "/comeupkings-react/static/js/main.ef900b3b.chunk.js",
     "main.js.map": "/comeupkings-react/static/js/main.ef900b3b.chunk.js.map",
     "runtime-main.js": "/comeupkings-react/static/js/runtime-main.1d399cab.js",
@@ -10,16 +10,17 @@
     "static/js/3.d5c599a3.chunk.js": "/comeupkings-react/static/js/3.d5c599a3.chunk.js",
     "static/js/3.d5c599a3.chunk.js.map": "/comeupkings-react/static/js/3.d5c599a3.chunk.js.map",
     "index.html": "/comeupkings-react/index.html",
-    "static/css/main.2f4035ac.chunk.css.map": "/comeupkings-react/static/css/main.2f4035ac.chunk.css.map",
+    "static/css/main.9a4ca85a.chunk.css.map": "/comeupkings-react/static/css/main.9a4ca85a.chunk.css.map",
     "static/js/2.6c6f109f.chunk.js.LICENSE.txt": "/comeupkings-react/static/js/2.6c6f109f.chunk.js.LICENSE.txt",
     "static/media/happy.41b17b60.png": "/comeupkings-react/static/media/happy.41b17b60.png",
     "static/media/logo2.1cfa0275.png": "/comeupkings-react/static/media/logo2.1cfa0275.png",
-    "static/media/sad.2ff188fb.png": "/comeupkings-react/static/media/sad.2ff188fb.png"
+    "static/media/sad.2ff188fb.png": "/comeupkings-react/static/media/sad.2ff188fb.png",
+    "static/media/App.css": "/comeupkings-react/static/media/sneakers-background.71828267.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.1d399cab.js",
     "static/js/2.6c6f109f.chunk.js",
-    "static/css/main.2f4035ac.chunk.css",
+    "static/css/main.9a4ca85a.chunk.css",
     "static/js/main.ef900b3b.chunk.js"
   ]
 }
