@@ -2,15 +2,11 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './views/App';
-import NavigationBar from './views/NavigationBar'
-import Footer from './views/Footer'
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <NavigationBar />
-    <App />
-    <Footer/>
+      <App />
   </React.StrictMode>,
   document.getElementById('root')
 );
